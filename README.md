@@ -46,14 +46,14 @@ Club: Liverpool FC
 <h3 align="left">Check my work:</h3>
 
 <p align="left">
-<a href="https://kaggle.com/warspinix" target="blank"><img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" /></a>&nbsp;<a href="https://leetcode.com/yuvarajk21" target="blank"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" /></a>&nbsp;<a href="https://discord.gg/xerxes73" target="blank"><img src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>&nbsp;
+<a href="https://kaggle.com/warspinix" target="blank"><img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" /></a>&nbsp;<a href="https://leetcode.com/yuvarajk21" target="blank"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" /></a>&nbsp;
 </p>
 
 
 
-<p align="left"><img src="https://github-readme-stats.zcy.dev/api/top-langs?username=yuvarajk2109&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yuvarajk2109" /></p>
+<p align="left"><img src="https://github-readme-stats.zcy.dev/api/top-langs?username=yuvarajk2109&show_icons=true&locale=en&layout=compact&theme=dark" alt="yuvarajk2109" /></p>
 
-<p align="left"><img src="https://github-readme-stats.zcy.dev/api?username=yuvarajk2109&show_icons=true&theme=tokyonight" alt="yuvarajk2109" /></p>
+<p align="left"><img src="https://github-readme-stats.zcy.dev/api?username=yuvarajk2109&show_icons=true&theme=dark" alt="yuvarajk2109" /></p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvarajk2109&theme=tokyonight" alt="yuvarajk2109" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvarajk2109&theme=dark" alt="yuvarajk2109" /></p>
 
