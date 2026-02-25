@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 <h4>Passionate programmer, web developer, and enthusiast in the world of Information Technology. A confident and assured  individual, with the professionalism to work both individually and together with anyone. An avid reader, sports person, and  technology aficionado. A diligent worker eager to take on new tasks and encounter new challenges.</h4>
 
 
-Favourite Movie: Spider-Man: Into the Spider-Verse
+Favourite Movie: Spider-Man: Into the Spider-Verse 
+
 Favourite TV Show: Daredevil (2015)
+
 Favourite Book: The Silent Patient
+
 Club: Liverpool FC
 
 
