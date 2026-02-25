@@ -19,11 +19,8 @@ Here are some ideas to get you started:
 
 
 Favourite Movie: Spider-Man: Into the Spider-Verse 
-
 Favourite TV Show: Daredevil (2015)
-
 Favourite Book: The Silent Patient
-
 Club: Liverpool FC
 
 
