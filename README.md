@@ -38,7 +38,7 @@ Club: Liverpool FC
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/yuvarajk21" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
+<a href="https://linkedin.com/in/yuvarajk21" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
 </p>
 
 
@@ -46,7 +46,7 @@ Club: Liverpool FC
 <h3 align="left">Check my work:</h3>
 
 <p align="left">
-<a href="https://kaggle.com/https://www.kaggle.com/warspinix" target="blank"><img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" /></a>&nbsp;<a href="https://leetcode.com/https://leetcode.com/u/yuvarajk21/" target="blank"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" /></a>&nbsp;
+<a href="https://kaggle.com/warspinix" target="blank"><img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" /></a>&nbsp;<a href="https://leetcode.com/yuvarajk21" target="blank"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" /></a>&nbsp;<a href="https://discord.gg/xerxes73" target="blank"><img src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>&nbsp;
 </p>
 
 
@@ -56,3 +56,4 @@ Club: Liverpool FC
 <p align="left"><img src="https://github-readme-stats.zcy.dev/api?username=yuvarajk2109&show_icons=true&theme=tokyonight" alt="yuvarajk2109" /></p>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvarajk2109&theme=tokyonight" alt="yuvarajk2109" /></p>
+
